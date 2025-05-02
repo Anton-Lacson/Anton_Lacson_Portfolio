@@ -10,7 +10,9 @@ computer science, I will always have the technical skills I have developed throu
 
 ### Skills 
 Languages: Python, C, Java, R Programming, SQL, HTML, Javascript 
+
 Software: Alteryx, ObservePoint, Adobe Data Collection, Adobe Analytics, Adobe Target 
+
 Computer: Microsoft Office: Word, Excel, PowerPoint, PowerBI, Access 
 
 ### Projects 
