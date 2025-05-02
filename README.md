@@ -16,6 +16,7 @@ Computer: Microsoft Office: Word, Excel, PowerPoint, PowerBI, Access
 ### Projects 
 GTA, Teleguam Holdings LLC - Information Technology Summer Intern 
 - During my summer intnernship with GTA's information technology team back in 2022, I assisted in updating the company's Employee Portal using HTML and Javascript, which lead to enhancing user experience and functionality.
+  
 EZDocs - Senior Capstone Project
 - A web documentaion editor to make it faster and easier for entry-level IT and software workers to create technical documentation files like QA test plans, incident report, API docs, etc.
 - With core features such as a rich text editor with an embedded AI assistant inside the search bar to help guide users for writing and improving documentation.
