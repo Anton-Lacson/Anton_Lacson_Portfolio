@@ -1,5 +1,4 @@
 
-
 ### About me
 Hi! My name is Anton Lacson, I was born and raised on the Island of Guam and moved to Minnesota to pursue my bachelors degree at the University of St. Thomas. 
 I am on my last semester of college and getting ready to graduate with a major in Computer Science with double minors in Business Analytics and Data Science. 
