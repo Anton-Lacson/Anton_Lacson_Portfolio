@@ -21,4 +21,7 @@ GTA, Teleguam Holdings LLC - Information Technology Summer Intern
 EZDocs - Senior Capstone Project
 - A web documentaion editor to make it faster and easier for entry-level IT and software workers to create technical documentation files like QA test plans, incident report, API docs, etc.
 - With core features such as a rich text editor with an embedded AI assistant inside the search bar to help guide users for writing and improving documentation.
-- Very user friendly and meant for people who need to do documentation in their job with no prior experience needed with technical documentation standards since EZDocs helps guide users. 
+- Very user friendly and meant for people who need to do documentation in their job with no prior experience needed with technical documentation standards since EZDocs helps guide users.
+
+### Link to resume
+https://github.com/Anton-Lacson/Anton_Lacson_Portfolio/blob/main/Antonio_Lacson_Resume_2024-2025.pdf
