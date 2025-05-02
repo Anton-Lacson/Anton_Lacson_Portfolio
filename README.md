@@ -1,4 +1,4 @@
-# Anton Lacson
+
 
 ### About me
 Hi! My name is Anton Lacson, I was born and raised on the Island of Guam and moved to Minnesota to pursue my bachelors degree at the University of St. Thomas. 
