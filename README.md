@@ -25,3 +25,6 @@ EZDocs - Senior Capstone Project
 
 ### Link to resume
 https://github.com/Anton-Lacson/Anton_Lacson_Portfolio/blob/main/Antonio_Lacson_Resume_2024-2025.pdf
+
+### Link to resume 
+[View my Resume (PDF)](file:///Users/A/Downloads/Antonio_Lacson_Resume_2024-2025%20(3).pdf)
