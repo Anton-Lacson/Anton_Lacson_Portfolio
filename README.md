@@ -23,9 +23,7 @@ EZDocs - Senior Capstone Project
 - With core features such as a rich text editor with an embedded AI assistant inside the search bar to help guide users for writing and improving documentation.
 - Very user friendly and meant for people who need to do documentation in their job with no prior experience needed with technical documentation standards since EZDocs helps guide users.
 
-### Link to resume
-https://github.com/Anton-Lacson/Anton_Lacson_Portfolio/blob/main/Antonio_Lacson_Resume_2024-2025.pdf
 
-### Link to resume 
+### Click link to view my resume!
 [View my Resume (PDF)](https://raw.githubusercontent.com/Anton-Lacson/Anton_Lacson_Portfolio/main/Antonio_Lacson_Resume_2024-2025.pdf
 )
