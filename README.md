@@ -18,7 +18,9 @@ Computer: Microsoft Office: Word, Excel, PowerPoint, PowerBI, Access
 GTA, Teleguam Holdings LLC - Information Technology Summer Intern 
 - During my summer intnernship with GTA's information technology team back in 2022, I assisted in updating the company's Employee Portal using HTML and Javascript by implementing a generate verification of employment feature, which lead to enhancing user experience and functionality.
 - Task: Helped assist in integrating the HTML code that implemented to front end form interface.
-- 
+
+  
+  
 <img src="EZDocs - Homepage.png" alt="EZDocs UI Preview" width="400"/>
 
 EZDocs - Senior Capstone Project
