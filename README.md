@@ -14,6 +14,8 @@ Software: Alteryx, ObservePoint, Adobe Data Collection, Adobe Analytics, Adobe T
 
 Computer: Microsoft Office: Word, Excel, PowerPoint, PowerBI, Access 
 
+Soft: Communication, Time managmement and Organization, Collaboration and Teamwork, Leadership, Adaptability
+
 ### Projects 
 GTA, Teleguam Holdings LLC - Information Technology Summer Intern 
 - During my summer intnernship with GTA's information technology team back in 2022, I assisted in updating the company's Employee Portal using HTML and Javascript by implementing a generate verification of employment feature, which lead to enhancing user experience and functionality.
